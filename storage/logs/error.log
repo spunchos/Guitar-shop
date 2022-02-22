@@ -1,0 +1,30 @@
+2021-11-20 7:36:32 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
+2021-11-20 7:36:34 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
+2021-11-20 7:41:11 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 25
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 26
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 27
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 30
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 25
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 26
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 27
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 30
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 25
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 26
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 27
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 30
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 25
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 26
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 27
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 30
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 25
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 26
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 27
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 30
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 25
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 26
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 27
+2021-11-20 8:41:26 - PHP Notice:  Undefined index: RUB in C:\xampp\htdocs\kursach\system\library\cart\currency.php on line 30
+2021-11-20 9:19:18 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
+2021-11-20 10:45:49 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
+2021-11-20 10:45:51 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
