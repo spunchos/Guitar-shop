@@ -28,3 +28,7 @@
 2021-11-20 9:19:18 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
 2021-11-20 10:45:49 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
 2021-11-20 10:45:51 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
+2022-03-28 5:53:57 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'guitar' in C:\xampp\htdocs\kursach\system\library\db\mysqli.php on line 7
+2022-03-28 5:53:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\kursach\system\library\db\mysqli.php on line 10
+2022-03-28 5:53:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\kursach\system\library\db\mysqli.php on line 10
+2022-03-28 6:00:42 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kursach\system\library\mail\mail.php on line 77
